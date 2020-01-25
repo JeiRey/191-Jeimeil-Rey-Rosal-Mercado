@@ -1,3 +1,48 @@
+# Answers:
+1. What does 'git log' look like?
+C:\Users\Raiki\Documents\GitHub\191-Jeimeil-Rey-Rosal-Mercado>git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+2. After creating file, what does git status look like now?
+commit 9936afe693d0c96b5c6f970646c999188ea3ba1c
+Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+Date:   Fri Jan 24 18:18:09 2020 -0800
+
+    Create README.md
+
+commit 1a2f9c4d12c8a7c2b7c5f7d33dd1861b4ac57e76
+Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+Date:   Fri Jan 24 18:13:37 2020 -0800
+
+    Katas
+
+3. Add file to staging area, git status
+commit 049bd27f13b628e0f446e4532474d1890ff7a01c
+Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+Date:   Fri Jan 24 18:23:24 2020 -0800
+
+    Update README.md
+
+4. Change content:
+
+commit 049bd27f13b628e0f446e4532474d1890ff7a01c
+Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+Date:   Fri Jan 24 18:26:21 2020 -0800
+
+    Update README.md
+
+5. Change Content:
+
+Same as above
+
+6. Commit:
+commit 0f4158cea9483b0912122abd4298ddb17fc1141b (HEAD -> master, origin/master)
+Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+Date:   Fri Jan 24 18:30:27 2020 -0800
+
 # Git Kata: Basic Commits
 This kata will introduce you to the `git add` and `git commit` commands.
 
