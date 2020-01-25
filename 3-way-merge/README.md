@@ -31,3 +31,18 @@ You again live in your own branch, this time we will be doing a bit of juggling 
 - `git merge <branchA> <branchB>`
 - `git diff <branchA> <branchB>`
 - `git log --oneline --graph --all`
+
+## Answers:
+## What is the output of git log --oneline --graph --all?
+## C:\Users\Raiki\Documents\GitHub\191-Jeimeil-Rey-Rosal-Mercado>git log
+##commit 9936afe693d0c96b5c6f970646c999188ea3ba1c (HEAD -> master, origin/master)
+##Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+##Date:   Fri Jan 24 18:18:09 2020 -0800
+
+##    Create README.md
+
+##commit 1a2f9c4d12c8a7c2b7c5f7d33dd1861b4ac57e76
+##Author: JeiRey <47876392+JeiRey@users.noreply.github.com>
+##Date:   Fri Jan 24 18:13:37 2020 -0800
+
+##    Katas
